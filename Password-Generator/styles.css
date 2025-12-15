@@ -1,0 +1,16 @@
+body{
+    size: 300px;
+}
+button{
+    
+    color: rgb(239, 239, 239);
+    background: purple;
+    border-radius: 50px;
+    align-content: center;
+}
+button:hover{
+    background-color: rgb(56, 0, 108);
+}
+button:active{
+    background-color: rgb(66, 69, 144);
+}

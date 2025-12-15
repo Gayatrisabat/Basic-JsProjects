@@ -1,0 +1,23 @@
+a{
+    background-color: rgb(157, 154, 154);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: dotted;
+    border: 3px black;
+
+}
+nav{
+    flex:content;
+    align-items: center;
+    align-content: baseline;
+    padding: 10px;
+    border: 5px black;
+ }
+ .button{
+    padding: 5px 20px;
+    border: 2px black
+ }
+.button:hover {
+    cursor: pointer;
+}
