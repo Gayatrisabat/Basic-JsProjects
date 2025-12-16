@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+}
+.center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+
+#clock {
+    font-size: 40px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+nav{
+    flex:content;
+    align-items: center;
+    align-content: baseline;
+    padding: 10px;
+    border: 5px rgb(79, 73, 73);
+ }
+ .button{
+    padding: 5px 20px;
+    border: 2px rgb(166, 147, 147)
+ }
+.button:hover {
+    cursor: pointer; }
+
+a{
+    background-color: rgb(157, 154, 154);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: dotted;
+    border: 3px black;
+    justify-content: center;
+
+}
