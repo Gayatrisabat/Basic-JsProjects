@@ -1,0 +1,22 @@
+
+a{
+    background-color: rgb(157, 154, 154);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: dotted;
+    border: 3px black;
+    justify-content: center;
+
+}
+
+body{
+    background-color: rgb(212, 197, 179);
+}
+ button{
+    padding: 5px 20px;
+    border: 2px rgb(166, 147, 147)
+    
+ }
+button:hover {
+    cursor: pointer; }
