@@ -15,7 +15,7 @@ Each project is **individually deployed** and accessible via live demos.
 | 3 | QR Code Generator | Generates QR codes from text or URLs | [View Demo](https://qrcode-generator.gayatri-235396208.workers.dev) |
 | 4 | Music Player UI | Interactive music player interface with playback controls | [View Demo](https://music-player.gayatri-235396208.workers.dev) |
 | 5 | BMI Calculator | Calculates Body Mass Index based on height and weight | [View Demo](https://bmi-calculator.gayatri-235396208.workers.dev) |
-| 6 | Digital Clock | Displays real-time local system time | [View Demo](https://digitalclockgayatri-235396208.workers.dev) |
+| 6 | Digital Clock | Displays real-time local system time | [View Demo](https://digitalclock.gayatri-235396208.workers.dev) |
 | 7 | Dice Roller | Generates a random dice value on each roll | [View Demo](https://diceroller.gayatri-235396208.workers.dev) |
 | 8 | Background Color Changer | Dynamically changes background color at fixed intervals | [View Demo](https://bgcolor-changer.gayatri-235396208.workers.dev) |
 
